@@ -28,8 +28,6 @@ struct ContentView: View {
     }
     
     @State var resultString: String = ""
-    //@Stateを入れないとエラーが表示される
-    //Cannot assign to property: 'self' is immutable
     
     var body: some View {
         VStack(spacing: 15.0) {
