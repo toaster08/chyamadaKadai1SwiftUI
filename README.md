@@ -1,1 +1,3 @@
 # chyamadaKadai1SwiftUI
+
+Github上で変えている場合、pullしてローカルに反映させる必要が出てくる
