@@ -9,11 +9,11 @@ import SwiftUI
 
 struct ContentView: View {
     // Conflict目的のコメントXXXXXX
-    @State private var text1: String = "0"
-    @State private var text2: String = "0"
-    @State private var text3: String = "0"
-    @State private var text4: String = "0"
-    @State private var text5: String = "0"
+    @State private var text1: String = ""
+    @State private var text2: String = ""
+    @State private var text3: String = ""
+    @State private var text4: String = ""
+    @State private var text5: String = ""
 
     private var result: Int? {
         guard let number1 = Int(text1),
