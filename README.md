@@ -1,1 +1,1 @@
-# chyamadaKadai1SwiftUI
+# chyamadaKadai1ConflictSwiftUI
