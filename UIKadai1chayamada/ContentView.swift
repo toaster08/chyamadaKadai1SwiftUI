@@ -8,6 +8,7 @@
 import SwiftUI
 
 struct ContentView: View {
+    // Conflict 目的　ーーーーーー
     @State private var text1: String = "0"
     @State private var text2: String = "0"
     @State private var text3: String = "0"
