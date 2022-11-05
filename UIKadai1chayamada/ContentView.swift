@@ -28,7 +28,7 @@ struct ContentView: View {
         return result
     }
     
-    @State var resultString: String = ""
+    @State private var resultString: String = ""
     
     var body: some View {
         VStack(spacing: 15.0) {
